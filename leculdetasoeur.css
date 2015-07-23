@@ -1,3 +1,9 @@
-H1 {position:center;font-style:underline;}
+* {font-family:Helvetica;}
+
+#image1 {text-align:center;}
+
+H1 {text-align:center;
+    text-decoration:underline;}
   
-  p {color:red;font-family:Helvetica;}
+  p {color:red;
+    font-family:Helvetica;}
