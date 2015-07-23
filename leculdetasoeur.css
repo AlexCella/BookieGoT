@@ -8,4 +8,4 @@ H1 {text-align:center;
   p {color:red;
     font-family:Helvetica;}
     
-img {height:100px;width:100px;}
+img {height:200px;width:200px;border:5px solid red}
