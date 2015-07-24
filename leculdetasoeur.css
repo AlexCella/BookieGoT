@@ -8,6 +8,6 @@ H1 {text-align:center;
   p {color:red;
     font-family:Helvetica;}
     
-#tyrion {height:30px;width:30px;border:5px solid red;}
-#aria {height:30px;width:30px;border:5px solid #d3d3d3;}
-#eunuque {height:30px;width:30px;border:5px solid ##FFC0CB;}
+#tyrion {height:30px;width:30px;border:5px solid red;text-align:left;}
+#aria {height:30px;width:30px;border:5px solid #d3d3d3;text-align:center;}
+#eunuque {height:30px;width:30px;border:5px solid ##FFC0CB;text-align:right;}
